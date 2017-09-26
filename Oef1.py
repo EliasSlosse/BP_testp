@@ -39,7 +39,7 @@
 #print("Het totale aantal seconden bedraagt: ", time)
 #------
 #oef 7: seconden omzetten naar dagen, uren, minuten, seconden
-#comment
+
 secg = int(input("Geef het aantal seconden op: "))
 
 dagen = (secg/60/60/24)
@@ -49,3 +49,5 @@ seconden = secg
 
 
 print("d:h:m:s -> {0:.0f}:{1:.0f}:{2:.0f}:{3:.0f}".format(dagen, uren, minuten, seconden))
+
+test="dit is een eerse wijziging"
