@@ -50,5 +50,5 @@ seconden = secg
 
 print("d:h:m:s -> {0:.0f}:{1:.0f}:{2:.0f}:{3:.0f}".format(dagen, uren, minuten, seconden))
 
-test="dit is een eerse wijziging"
+test="dit is een eerste wijziging"
 test2="dit is een tweede wijziging"
