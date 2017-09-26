@@ -19,7 +19,7 @@
 #
 # print("De oppervlakte bedraagt {0:.2f}".format(opp))
 #-------
-#oef 6: dagen, uren, minuten, seconden omzetten naar totaal aantal seconden
+#oef 6: Werken met tijd
 # dagen = float(input("Geef het aantal dagen op: "))
 # uren = float(input("Geef het aantal uren op: "))
 # minuten = float(input("Geef het aantal minuten op: "))
@@ -38,7 +38,7 @@
 
 #print("Het totale aantal seconden bedraagt: ", time)
 #------
-#oef 7: seconden omzetten naar dagen, uren, minuten, seconden
+#oef 7: werken met tijd
 
 secg = int(input("Geef het aantal seconden op: "))
 
